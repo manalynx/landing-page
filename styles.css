@@ -12,11 +12,14 @@
     margin: 0;
   }
 
+  body{
+    background-color: #f2e3fb;
+    width: 100%;
+  }
   .topnav {
     background-color: #9487cf;
     position:absolute;
     right: 0;
-   
   }
   
   /* Navbar links */
@@ -28,13 +31,12 @@
     text-decoration: none;
     font-size: 17px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
   }
   .topnav a:hover {
     background-color: #bd98cc;
     color: black;
   }
-
+/* hero image */
 .hero{
     position: relative;
     width: 100%;
