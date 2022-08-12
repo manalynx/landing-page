@@ -80,11 +80,6 @@ input{
     text-align: center;
 }
 
-vedio{
-    position: absolute;
-    display: block;
-  
-}
 
 h1{
     top: 650px;
@@ -95,4 +90,15 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     color:#e65c98;
     font-size: 30px;
+}
+
+subtitle{
+    top: 653px;
+    position: relative;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#e65c98;
+    font-size: 20px;
 }
