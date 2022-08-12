@@ -14,7 +14,6 @@
 
   body{
     background-color: #f2e3fb;
-    width: 100%;
   }
   .topnav {
     background-color: #9487cf;
@@ -29,7 +28,7 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   .topnav a:hover {
@@ -38,7 +37,7 @@
   }
 /* hero image */
 .hero{
-    position: relative;
+   
     width: 100%;
     height: 90%;
     background: url(hero.jpg);
@@ -51,7 +50,49 @@
     filter: brightness(70%);
 }
 
-#form{
-    top: 90%;
+.form{
+    position: relative;
+    top: 700px;
     color: black;
+    display: block;
+    padding: 10px 0 0 5px;
+    margin: auto ;
+    border:solid 1px #9487cf;
+    width: 40%;
+    background-color:#edddb1;
+   
+}
+
+label{
+    margin: auto;
+}
+
+input{
+    display: block;
+    padding:4px 2px;
+    width: fit-content;
+    margin: auto ;  
+}
+
+#submit{
+    margin-top: 2%;
+    width: 30%;
+    text-align: center;
+}
+
+vedio{
+    position: absolute;
+    display: block;
+  
+}
+
+h1{
+    top: 650px;
+    position: relative;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#e65c98;
+    font-size: 30px;
 }
