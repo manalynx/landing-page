@@ -51,3 +51,7 @@
     filter: brightness(70%);
 }
 
+#form{
+    top: 90%;
+    color: black;
+}
