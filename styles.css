@@ -1,3 +1,9 @@
+@media (prefers-reduced-motion: no-preference) {
+    * {
+      scroll-behavior: smooth;
+    }
+  }
+
 * {
     vertical-align: baseline;
     font-weight: inherit;
@@ -57,7 +63,7 @@
 #book{
     display: flex; 
     justify-content: center;
-    margin-top: 600px; 
+    margin-top: 200px; 
 }
 
 /* form style */
@@ -92,22 +98,17 @@ input{
 
 /* h1 style */
 h1{
-  
-    
-    font-family: Arial, Helvetica, sans-serif;
-   
+    position: absolute;
     font-family: Arial, Helvetica, sans-serif;
     color:#e65c98;
     font-size: 30px;
 }
 
 /* subtitle style */
-subtitle{
-    
-  
+subtitle{   
+    position: absolute;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2%;
     color:#e65c98;
     font-size: 20px;
 }
@@ -116,7 +117,7 @@ subtitle{
 #video{
     display: flex; 
     justify-content: center;
-    margin-top: 700px;  
+    margin-top: 750px;  
 }
 video{
     width: 50%;
