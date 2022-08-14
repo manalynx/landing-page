@@ -12,10 +12,13 @@
     margin: 0;
   }
 
+  /* body style */
   body{
     background-color: #f2e3fb;
     font-family:Georgia, 'Times New Roman', Times, serif;
   }
+
+  /* topnav style */
   .topnav {
     background-color: #9487cf;
     position:absolute;
@@ -36,6 +39,7 @@
     background-color: #bd98cc;
     color: black;
   }
+
 /* hero image */
 .hero{
    
@@ -51,6 +55,7 @@
     filter: brightness(70%);
 }
 
+/* form style */
 .form{
     position: relative;
     top: 700px;
@@ -64,11 +69,10 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
    
 }
-
 label{
     margin: auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
-
 input{
     display: block;
     padding:4px 2px;
@@ -76,7 +80,7 @@ input{
     margin: auto ;  
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
-
+/* submit style */
 #submit{
     margin-top: 2%;
     width: 30%;
@@ -84,7 +88,7 @@ input{
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
-
+/* h1 style */
 h1{
     top: 690px;
     position: relative;
@@ -96,6 +100,7 @@ h1{
     font-size: 30px;
 }
 
+/* subtitle style */
 subtitle{
     top: 693px;
     position: relative;
@@ -107,6 +112,7 @@ subtitle{
     font-size: 20px;
 }
 
+/* video */
 #vedio{
     display: flex;
     flex-direction: column;
