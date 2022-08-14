@@ -54,12 +54,18 @@
     filter: brightness(70%);
 }
 
+#book{
+    display: flex; 
+    justify-content: center;
+    margin-top: 600px; 
+}
+
 /* form style */
 .form{
-    position: relative;
-    top: 1004px;
+   
+   
     color: black;
-    display: block;
+  
     padding: 10px 0 0 5px;
     margin: auto ;
     border:solid 1px #9487cf;
@@ -90,11 +96,10 @@ input{
 
 /* h1 style */
 h1{
-    top: 1000px;
-    position: relative;
-    display: block;
+  
+    
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+   
     font-family: Arial, Helvetica, sans-serif;
     color:#e65c98;
     font-size: 30px;
@@ -102,9 +107,8 @@ h1{
 
 /* subtitle style */
 subtitle{
-    top: 1002px;
-    position: relative;
-    display: block;
+    
+  
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -116,7 +120,7 @@ subtitle{
 #video{
     display: flex; 
     justify-content: center;
-    margin-top: 450px;  
+    margin-top: 700px;  
 }
 video{
     width: 50%;
