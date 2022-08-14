@@ -66,6 +66,7 @@
     width: 40%;
     background-color:#edddb1;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    border-radius: 2rem;
    
 }
 label{
@@ -115,10 +116,10 @@ subtitle{
 #video{
     display: flex; 
     justify-content: center;
-    margin-top: 450px;
-   
+    margin-top: 450px;  
 }
 video{
     width: 50%;
     height: auto;
+    border-radius: 2rem;
 }
