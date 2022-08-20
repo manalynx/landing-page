@@ -28,7 +28,7 @@
 
   /* body style */
   body{
-    background-color: #f2e3fb;
+    background: linear-gradient(45deg,#a492eb, rgb(232, 162, 207));
     font-family:Georgia, 'Times New Roman', Times, serif;
   }
 
@@ -37,6 +37,7 @@
     background-color: #9487cf;
     position:absolute;
     right: 0;
+    width: 100%;
   }
   
   /* Navbar links */
