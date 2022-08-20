@@ -121,15 +121,3 @@ subtitle{
     color:#e65c98;
     font-size: 20px;
 }
-
-/* video */
-#video{
-    display: flex; 
-    justify-content: center;
-    margin-top: 750px;  
-}
-video{
-    width: 50%;
-    height: auto;
-    border-radius: 2rem;
-}
