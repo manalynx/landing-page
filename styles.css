@@ -105,6 +105,7 @@ h1{
 }
 #service img:hover{
   opacity: 0;
+  transition: .5s ease;
 }
 
 #book{
