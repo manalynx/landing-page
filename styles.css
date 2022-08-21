@@ -51,6 +51,7 @@
     font-family:'Times New Roman', Times, serif;
     font-weight: bold;
   }
+  /* topnav hover */
   .topnav a:hover {
     background-color: #bd98cc;
     color: black;
