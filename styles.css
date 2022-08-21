@@ -67,7 +67,7 @@
   display: block;
   width: 100%; 
   filter: blur(50%);
-  
+  filter: blur(5px);
 }
 
 /* h1 style */
@@ -100,6 +100,9 @@ h1{
 #service::after {
   content: "";
   width: 350px;
+}
+#service img:hover{
+
 }
 
 button{
