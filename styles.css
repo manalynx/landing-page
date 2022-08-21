@@ -75,7 +75,8 @@
   z-index: 2;
 }
 img{
-  width: 100%;
+  width: 50;
+  display: block;
 }
 
 #book{
