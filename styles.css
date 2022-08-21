@@ -67,7 +67,7 @@
 .hero-img{
   display: block;
   width: 100%; 
-  filter: blur(2px);
+  filter: blur(3px);
 }
 
 /* h1 style */
