@@ -81,7 +81,7 @@ h1{
   text-align: center;
   font-weight: bold;
 }
-
+/* service section */
 #service{
   display: flex;
   flex-direction: row;
@@ -93,6 +93,7 @@ h1{
   margin: 0 auto;
   padding: 20px 10px;
 }
+/* all images within service section */
 #service img {
   width: 100%;
   max-width: 350px;
