@@ -38,6 +38,7 @@
     position:absolute;
     right: 0;
     width: 100%;
+    z-index: 1;
   }
   /* Navbar links */
   .topnav a {
@@ -66,8 +67,7 @@
 .hero-img{
   display: block;
   width: 100%; 
-  filter: blur(50%);
-  filter: blur(5px);
+  filter: blur(2px);
 }
 
 /* h1 style */
@@ -96,13 +96,15 @@ h1{
   height: 300px;
   object-fit: cover;
   border-radius: 10px;
+  opacity: 0;
+  transition: .5s ease;
 }
 #service::after {
   content: "";
   width: 350px;
 }
 #service img:hover{
-
+  opacity: 1;
 }
 
 button{
