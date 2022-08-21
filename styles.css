@@ -67,6 +67,17 @@
     opacity: 50%;
 }
 
+.nail{
+  margin-top: 700px;
+  display: flex;
+  margin: 10px;
+  padding: 20px;
+  z-index: 2;
+}
+img{
+  width: 100%;
+}
+
 #book{
     display: flex; 
     justify-content: center;
