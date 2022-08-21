@@ -28,7 +28,7 @@
 
   /* body style */
   body{
-    background: linear-gradient(45deg,#b2a2f3, rgb(236, 177, 216));
+    background: linear-gradient(45deg,#b9b0df, rgb(237, 163, 212));
     font-family:Georgia, 'Times New Roman', Times, serif;
   }
 
@@ -39,7 +39,6 @@
     right: 0;
     width: 100%;
   }
-  
   /* Navbar links */
   .topnav a {
     display: inline-block;
@@ -62,7 +61,6 @@
     background: url(hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    content: "";
     position: absolute;
     top: 0;
     left: 0;
@@ -72,7 +70,7 @@
 #book{
     display: flex; 
     justify-content: center;
-    margin-top: 200px; 
+    margin-top: 700px; 
 }
 
 /* form style */
