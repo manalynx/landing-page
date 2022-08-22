@@ -138,7 +138,7 @@ label{
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 input{
-    display: block;
+    display: flex;
     padding:4px 2px;
     width: fit-content;
     margin: auto ;  
