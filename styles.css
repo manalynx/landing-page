@@ -113,15 +113,14 @@ h1{
 
 #book{
     display: flex; 
-    justify-content: center;
+    justify-content: right;
 }
 
 h2{
-  position:absolute;
   font-family:'Times New Roman', Times, serif;
   color:#e65c98;
   font-size: 30px;
-  left: 1px;
+  left: 3%;
   font-weight: bold;
 }
 /* form style */
