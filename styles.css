@@ -122,14 +122,12 @@ h2{
 }
 /* form style */
 .form{
-  display: flex; 
-    justify-content: right;
     color: black;
     padding: 10px 0 0 5px;
     margin: auto ;
     border:solid 1px #9487cf;
     width: 40%;
-    background-color:#edddb1;
+    background-color:#f2e7cb;
     font-family:Georgia, 'Times New Roman', Times, serif;
     border-radius: 2rem; 
 }
