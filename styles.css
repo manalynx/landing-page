@@ -134,6 +134,7 @@ h2{
     border-radius: 2rem; 
     color: #7660d5;
 }
+/* label style */
 label{
     display: flex;
     justify-content: left;
@@ -143,6 +144,7 @@ label{
     font-weight: bold;
     color: #7660d5;
 }
+/* input style */
 input{
     display: flex;
     padding:4px 2px;
@@ -164,6 +166,7 @@ input{
     font-weight: bold;
 }
 
+/* footer style */
 footer{
   position: relative;
   top: 20px;
@@ -176,10 +179,12 @@ footer{
   padding-top: 60px;
   color:#e65c98;
 }
+/* footer text */
 p{
   text-align: center;
 }
 
+/* social media icons */
 .socials{
   list-style: none;
   display: flex;
@@ -191,7 +196,6 @@ p{
 .socials li{
   margin: 0 10px;
 }
-
 .socials a{
   text-decoration: none;
   color: #fff;
@@ -199,15 +203,12 @@ p{
   padding: 5px;
   border-radius: 50%;
 }
-
 .socials a i{
   font-size: 1.1rem;
   width: 20px;
   transition: color .4s ease;
 }
-
-
-
+/* icon's hover */
 .fa-facebook:hover{
 color: #4867AA
 }
