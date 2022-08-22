@@ -149,8 +149,10 @@ input{
 }
 /* submit style */
 #submit{
+    display: flex;
+    justify-content: center;
     margin-top: 2%;
-    width: 30%;
+    width: fit-content;
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
