@@ -124,12 +124,12 @@ h2{
 }
 /* form style */
 .form{
-    color: black;
+    color: white;
     padding: 10px 0 0 5px;
     margin: auto ;
     border:solid 1px #9487cf;
     width: 40%;
-    background-color:#f2e7cb;
+    background-color:#f182b2;
     font-family:Georgia, 'Times New Roman', Times, serif;
     border-radius: 2rem; 
 }
@@ -146,6 +146,7 @@ input{
     width: 80%;
     margin: auto ;  
     font-family:Georgia, 'Times New Roman', Times, serif;
+    border-radius: 1rem;
 }
 /* submit style */
 #submit{
@@ -155,4 +156,6 @@ input{
     width: fit-content;
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #7660d5;
+    font-weight: bold;
 }
