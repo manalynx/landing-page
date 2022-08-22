@@ -114,6 +114,8 @@ h1{
 
 /* h2 */
 h2{
+  display: flex;
+  justify-content: center;
   font-family:'Times New Roman', Times, serif;
   color:#e65c98;
   font-size: 30px;
