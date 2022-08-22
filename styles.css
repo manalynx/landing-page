@@ -114,9 +114,16 @@ h1{
 #book{
     display: flex; 
     justify-content: center;
-   
 }
 
+h2{
+  position: relative;
+  font-family:'Times New Roman', Times, serif;
+  color:#e65c98;
+  font-size: 30px;
+  text-align: left;
+  font-weight: bold;
+}
 /* form style */
 .form{
     color: black;
