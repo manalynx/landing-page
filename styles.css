@@ -206,6 +206,8 @@ p{
   transition: color .4s ease;
 }
 
-.socials a:hover i{
-  color: aqua;
+
+
+.fa-facebook:hover{
+color: blue;
 }
