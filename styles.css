@@ -146,12 +146,3 @@ input{
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
-
-/* subtitle style */
-subtitle{   
-    position: absolute;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-top: 2%;
-    color:#e65c98;
-    font-size: 20px;
-}
