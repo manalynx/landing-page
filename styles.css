@@ -165,15 +165,16 @@ input{
 }
 
 footer{
-  position: static;
+  position: relative;
+  top: 20px;
   bottom: 0;
   left: 0;
   right: 0;
   background:  #9487cf;
-  height: auto;
+  height: 200px;
   width: 100vw;
-  padding-top: 40px;
-  color: #fff;
+  padding-top: 60px;
+  color:#e65c98;
 }
 p{
   text-align: center;
