@@ -160,3 +160,15 @@ input{
     color: #7660d5;
     font-weight: bold;
 }
+
+footer{
+  position: static;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background:  #9487cf;
+  height: auto;
+  width: 100vw;
+  padding-top: 40px;
+  color: #fff;
+}
