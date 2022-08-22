@@ -173,7 +173,7 @@ footer{
   bottom: 0;
   left: 0;
   right: 0;
-  background:  #9487cf;
+  background:  #b1a5e6;
   height: 200px;
   width: 100vw;
   padding-top: 60px;
@@ -183,6 +183,7 @@ footer{
 p{
   text-align: center;
   font-weight: bold;
+  font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 /* social media icons */
