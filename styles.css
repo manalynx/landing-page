@@ -117,11 +117,11 @@ h1{
 }
 
 h2{
-  position: relative;
+  position:absolute;
   font-family:'Times New Roman', Times, serif;
   color:#e65c98;
   font-size: 30px;
-  text-align: left;
+  left: 1px;
   font-weight: bold;
 }
 /* form style */
